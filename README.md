@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaibhavpandey00
-- 👀 I’m interested in ...
+- 👀 I’m interested in WEBDEV
 - 🌱 I’m currently learning React/Next.js
 - 💞️ I’m looking to collaborate on WebApp Projects
 - 📫 How to reach Hear's my IG @vaibhavpandey0
